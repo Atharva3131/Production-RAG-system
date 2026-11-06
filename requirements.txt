@@ -1,0 +1,33 @@
+
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+
+# LLM
+openai
+httpx
+
+# Document processing
+pypdf
+beautifulsoup4
+requests
+
+# Embeddings and vector database
+sentence-transformers
+chromadb
+
+# Sparse retrieval and reranking
+rank-bm25
+
+# Evaluation
+deepeval
+datasets
+
+# Testing
+pytest
+pytest-asyncio
+
+# Observability
+structlog
